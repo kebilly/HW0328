@@ -10,10 +10,10 @@ hr{
   /*background:#DDDDDD;*/
   background:#FFFFFF;
   font-size: 15px;
-  background: -webkit-linear-gradient(yellow,red);
+/*background: -webkit-linear-gradient(yellow,red);
   background: -o-linear-gradient(yellow,red);
   background: -moz-linear-gradient(yellow,red);
-  background: linear-gradient(yellow,red);
+  background: linear-gradient(yellow,red);*/
 }
 .header{
   width: 800px;
